@@ -1,0 +1,2 @@
+import sighin
+sighin.main()
